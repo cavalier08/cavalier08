@@ -5,5 +5,5 @@
 - [ClearQuest](https://github.com/cavalier08/ClearQuest)
 
 
-You can reach me on linkedin [here]([url](https://www.linkedin.com/in/chantal-zhang-267b5828a/)), or by email via chantal.zhang2015@gmail.com. 
+You can reach me on linkedin [here](https://www.linkedin.com/in/chantal-zhang-267b5828a/), or by email via chantal.zhang2015@gmail.com. 
 
