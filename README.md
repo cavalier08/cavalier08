@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Chantal Zhang
 I'm a freshman at the University of Waterloo studying Computer Science. Welcome to my Github! I host a number of my projects here, including:
 - [Personal Website - currently down :(((](https://github.com/cavalier08/personal-website)
+- [The Everything Calendar](https://github.com/Bobliuuu/everythingcalendar/branches)
 - [EcoSim](https://github.com/cavalier08/EcoSim)
 - [InQuizitive AI](https://github.com/cavalier08/InQuizitive-AI)
 - [Milvus Documentation](https://github.com/cavalier08/Milvus-Documentation)
