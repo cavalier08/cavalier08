@@ -4,7 +4,6 @@ I'm a freshman at the University of Waterloo studying Computer Science. Welcome 
 - [The Everything Calendar](https://github.com/Bobliuuu/everythingcalendar/branches)
 - [EcoSim](https://github.com/cavalier08/EcoSim)
 - [InQuizitive AI](https://github.com/cavalier08/InQuizitive-AI)
-- [Milvus Documentation](https://github.com/cavalier08/Milvus-Documentation)
 - [ClearQuest](https://github.com/cavalier08/ClearQuest)
 - [A mock-up of a website landing page](https://github.com/cavalier08/camel-ai)
 
